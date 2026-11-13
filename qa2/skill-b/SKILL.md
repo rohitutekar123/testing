@@ -1,5 +1,5 @@
 ---
-name: skill-b
+name: qa-check
 description: QA test skill for ticket 42415 rename check.
 ---
 # skill-b
